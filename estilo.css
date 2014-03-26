@@ -1,0 +1,21 @@
+ body {
+	  	margin: 0;
+	  }
+
+	  div#a1 {
+	  	background-image: url(http://cleofas.com.br/wp-content/uploads/2011/04/ceu-azul1.jpg);
+	  	background-repeat:no-repeat;
+	  	background-size: cover;  //estica imagem 
+	  	background-color: green;
+	  	text-align: center;
+	  	padding: 100px 0px;
+	  }
+	  
+	  div#a2 {
+	  	text-align: center;
+	  }
+	  
+	  
+	  div#a2 button {
+	  	float:right;
+	  }
